@@ -1,9 +1,11 @@
 # Pravin Ladde | Senior Hardware & PCB Design Engineer
+
 ![Altium](https://shields.io)
 ![PCB](https://shields.io)
 ![Embedded](https://shields.io)
 
 [About Me](#-professional-summary) | [Technical Skills](#-technical-skillset) | [Project Case Studies](#-key-project-case-studies) | [Contact](#-lets-connect)
+
 ---
 
 ## 🚀 Professional Summary
@@ -44,10 +46,11 @@ and **STM32 Bare-Metal development**.
 
 ---
 
-## 📫 Connect with Me
+## 📫 Let's Connect
 *   **LinkedIn:** [linkedin.com/in/pravin-ladde](https://www.linkedin.com/in/pravin-ladde-43104b34/)
 *   **Email:** ppladde@gmail.com
 *   **Interests:** Senior Hardware Engineer roles, Automotive/EV Electronics, Hardware Architecture.
+
 <details>
 <summary><b>🔍 View My High-Speed Routing Checklist</b></summary>
 <ul>
@@ -57,4 +60,3 @@ and **STM32 Bare-Metal development**.
   <li>Crosstalk analysis on critical high-speed traces</li>
 </ul>
 </details>
-
