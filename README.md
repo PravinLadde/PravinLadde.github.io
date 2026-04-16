@@ -1,9 +1,9 @@
-# [Your Name] | Senior Hardware & PCB Design Engineer
+# Pravin Ladde | Senior Hardware & PCB Design Engineer
 
 ## 🚀 Professional Summary
 Hardware Lead with 7+ years of end-to-end product development experience. 
 Specialist in **6-layer HDI boards**, **High-Speed Digital Design (GMAC/Gigabit Ethernet)**, 
-and **STM32 Bare-Metal development**. 
+and **STM32 Bare-Metal development**. Based in Pune, India
 
 ## 🛠 Technical Skillset
 * **EDA Tools:** Altium Designer, Autodesk Eagle (7+ years)
@@ -17,5 +17,5 @@ and **STM32 Bare-Metal development**.
 *   **Result:** Successfully passed EMI/EMC lab tests; currently in mass production.
 
 ## 📫 Connect with Me
-* [LinkedIn Profile](your-url)
-* [Personal Email](your-email)
+* [LinkedIn Profile]([your-url](https://www.linkedin.com/in/pravin-ladde-43104b34/))
+* [Personal Email](ppladde@gmail.com)
