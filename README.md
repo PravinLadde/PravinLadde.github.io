@@ -8,11 +8,11 @@
 
 ---
 
-| [👁️ Computer Vision](#-computer-vision) | [🤖 Robotics](#-robotics) | [📊 Data Science](#-data-science) | [🔌 Electronics](#-electronics-hardware--pcb) |
+
+| [👁️ Computer Vision](#-computer-vision) | [🤖 Robotics](#-robotics) | [📊 Data Science](#-data-science) | [🔌 Electronics](#-technical-skillset) |
 | :--- | :--- | :--- | :--- |
 
 ---
-
 
 ## 🚀 Professional Summary
 Hardware Lead with **7+ years** of end-to-end product development experience. 
@@ -23,7 +23,7 @@ and **STM32 Bare-Metal development**.
 
 ---
 
-## 🛠 Technical Skillset
+<h2 id="-technical-skillset">🛠 Technical Skillset</h2>
 *   **EDA Tools:** Altium Designer, Autodesk Eagle (7+ Years)
 *   **PCB Technology:** HDI (6-layer), Blind/Buried Vias, Controlled Impedance, High-Speed SI
 *   **Design Domains:** Low-power Wearables, Industrial IoT, Power Electronics, Mixed-Signal Design
@@ -32,7 +32,7 @@ and **STM32 Bare-Metal development**.
 
 ---
 
-## 📂 Key Project Case Studies
+<h2 id="-key-project-case-studies">📂 Key Project Case Studies</h2>
 
 ### 1. High-Density Wearable Device (HDI Design)
 *   **Role:** Lead Hardware Engineer (Concept to Production)
@@ -50,7 +50,6 @@ and **STM32 Bare-Metal development**.
 *   **Stack:** Power Electronics, Rugged Mixed-Signal PCB Design, Fail-safe Architectures.
 *   **Overview:** Designed end-to-end control boards for complex electromechanical systems, focusing on thermal management and failure protection.
 
----
 ---
 
 <h3 id="-computer-vision">👁️ Computer Vision & Embedded Linux</h3>
@@ -80,9 +79,9 @@ and **STM32 Bare-Metal development**.
 *   **Tools:** Python, NumPy, Matplotlib for hardware performance visualization.
 </details>
 
+---
 
-
-## 📫 Let's Connect
+<h2 id="-lets-connect">📫 Let's Connect</h2>
 *   **LinkedIn:** [linkedin.com/in/pravin-ladde](https://www.linkedin.com/in/pravin-ladde-43104b34/)
 *   **Email:** ppladde@gmail.com
 *   **Interests:** Senior Hardware Engineer roles, Automotive/EV Electronics, Hardware Architecture.
