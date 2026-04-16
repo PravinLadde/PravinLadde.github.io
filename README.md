@@ -45,6 +45,39 @@ and **STM32 Bare-Metal development**.
 *   **Overview:** Designed end-to-end control boards for complex electromechanical systems, focusing on thermal management and failure protection.
 
 ---
+---
+
+## 🚀 Projects & Specializations
+*Click a category to expand details*
+
+
+| [👁️ Computer Vision](#-computer-vision) | [🤖 Robotics](#-robotics) | [📊 Data Science](#-data-science) | [🔌 Electronics](#-electronics-hardware--pcb) |
+| :--- | :--- | :--- | :--- |
+
+<details>
+<summary id="-computer-vision"><b>👁️ Computer Vision & Embedded Linux</b></summary>
+
+*   **Linux Porting:** Experience in **U-Boot** and **Kernel bring-up** for custom hardware.
+*   **Vision Systems:** Interfacing MIPI-CSI/USB cameras with SoC platforms for real-time monitoring.
+*   **Embedded Learning:** Currently exploring **Yocto Project** to build custom distributions for industrial vision.
+</details>
+
+<details>
+<summary id="-robotics"><b>🤖 Robotics & Automation</b></summary>
+
+*   **Motor Control:** Designing high-precision drive circuits for Stepper and BLDC motors.
+*   **Sensor Fusion:** Integrating LiDAR, IMUs, and Ultrasonic sensors for autonomous navigation.
+*   **Rugged Design:** Implementing hardware-level fail-safes for electromechanical systems.
+</details>
+
+<details>
+<summary id="-data-science"><b>📊 Data Science (Applied)</b></summary>
+
+*   **Signal Processing:** Implementing FFT and digital filters on STM32 for sensor data analysis.
+*   **Predictive Maintenance:** Analyzing hardware failure patterns using data logs to improve product MTBF.
+*   **Tools:** Python, NumPy, Matplotlib for hardware performance visualization.
+</details>
+
 
 ## 📫 Let's Connect
 *   **LinkedIn:** [linkedin.com/in/pravin-ladde](https://www.linkedin.com/in/pravin-ladde-43104b34/)
