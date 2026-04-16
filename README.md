@@ -4,7 +4,7 @@
 ![PCB](https://shields.io)
 ![Embedded](https://shields.io)
 
-[About Me](#-professional-summary) | [Technical Skills](#-technical-skillset) | [Project Case Studies](#-key-project-case-studies) | [Contact](#-Let's Connect)
+[About Me](#-professional-summary) | [Technical Skills](#-technical-skillset) | [Project Case Studies](#-key-project-case-studies) | [Contact](#-let's-connect)
 
 ---
 
