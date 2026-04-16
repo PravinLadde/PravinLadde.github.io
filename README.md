@@ -8,6 +8,12 @@
 
 ---
 
+| [👁️ Computer Vision](#-computer-vision) | [🤖 Robotics](#-robotics) | [📊 Data Science](#-data-science) | [🔌 Electronics](#-electronics-hardware--pcb) |
+| :--- | :--- | :--- | :--- |
+
+---
+
+
 ## 🚀 Professional Summary
 Hardware Lead with **7+ years** of end-to-end product development experience. 
 Specialist in **6-layer HDI boards**, **High-Speed Digital Design (GMAC/Gigabit Ethernet)**, 
@@ -47,36 +53,33 @@ and **STM32 Bare-Metal development**.
 ---
 ---
 
-## 🚀 Projects & Specializations
-*Click a category to expand details*
-
-
-| [👁️ Computer Vision](#-computer-vision) | [🤖 Robotics](#-robotics) | [📊 Data Science](#-data-science) | [🔌 Electronics](#-electronics-hardware--pcb) |
-| :--- | :--- | :--- | :--- |
-
+<h3 id="-computer-vision">👁️ Computer Vision & Embedded Linux</h3>
 <details>
-<summary id="-computer-vision"><b>👁️ Computer Vision & Embedded Linux</b></summary>
+<summary><b>View Computer Vision Details</b></summary>
 
 *   **Linux Porting:** Experience in **U-Boot** and **Kernel bring-up** for custom hardware.
-*   **Vision Systems:** Interfacing MIPI-CSI/USB cameras with SoC platforms for real-time monitoring.
-*   **Embedded Learning:** Currently exploring **Yocto Project** to build custom distributions for industrial vision.
+*   **Vision Systems:** Interfacing MIPI-CSI/USB cameras with SoC platforms.
+*   **Embedded Learning:** Currently exploring **Yocto Project** for custom industrial distributions.
 </details>
 
+<h3 id="-robotics">🤖 Robotics & Automation</h3>
 <details>
-<summary id="-robotics"><b>🤖 Robotics & Automation</b></summary>
+<summary><b>View Robotics Details</b></summary>
 
 *   **Motor Control:** Designing high-precision drive circuits for Stepper and BLDC motors.
-*   **Sensor Fusion:** Integrating LiDAR, IMUs, and Ultrasonic sensors for autonomous navigation.
+*   **Sensor Fusion:** Integrating LiDAR, IMUs, and Ultrasonic sensors for navigation.
 *   **Rugged Design:** Implementing hardware-level fail-safes for electromechanical systems.
 </details>
 
+<h3 id="-data-science">📊 Data Science (Applied)</h3>
 <details>
-<summary id="-data-science"><b>📊 Data Science (Applied)</b></summary>
+<summary><b>View Data Science Details</b></summary>
 
-*   **Signal Processing:** Implementing FFT and digital filters on STM32 for sensor data analysis.
-*   **Predictive Maintenance:** Analyzing hardware failure patterns using data logs to improve product MTBF.
+*   **Signal Processing:** Implementing FFT and digital filters on STM32 for sensor analysis.
+*   **Predictive Maintenance:** Analyzing hardware failure patterns to improve product MTBF.
 *   **Tools:** Python, NumPy, Matplotlib for hardware performance visualization.
 </details>
+
 
 
 ## 📫 Let's Connect
