@@ -80,6 +80,27 @@ and **STM32 Bare-Metal development**.
 </details>
 
 ---
+---
+
+## 📸 Technical Spotlight: High-Speed Design Strategy
+
+<table>
+  <tr>
+    <td><img src="[YOUR_IMAGE_URL_HERE](https://github.com/PravinLadde/PravinLadde.github.io/blob/main/Touchtronics_17x11.png?raw=true)" width="400" alt="PCB Layout Snippet"></td>
+    <td>
+      <b>Theory & Implementation:</b><br>
+      For the <b>Gigabit Ethernet (RGMII)</b> section, I utilized a <b>Ground-Signal-Ground</b> stackup strategy to minimize crosstalk. 
+      <br><br>
+      <b>Key Considerations:</b>
+      <ul>
+        <li><b>Length Matching:</b> Differential pairs matched within ±5 mils to prevent phase skew.</li>
+        <li><b>Via Stitching:</b> Used shielding vias along high-speed traces to provide a continuous return path and reduce EMI.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
 
 <h2 id="-lets-connect">📫 Let's Connect</h2>
 *   **LinkedIn:** [linkedin.com/in/pravin-ladde](https://www.linkedin.com/in/pravin-ladde-43104b34/)
