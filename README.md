@@ -86,7 +86,7 @@ and **STM32 Bare-Metal development**.
 
 <table>
   <tr>
-    <td><img src="[YOUR_IMAGE_URL_HERE](https://github.com/PravinLadde/PravinLadde.github.io/blob/main/Touchtronics_17x11.png?raw=true)" width="400" alt="PCB Layout Snippet"></td>
+    <td><img src="https://github.com/PravinLadde/PravinLadde.github.io/blob/main/Touchtronics_17x11.png?raw=true" width="400" alt="PCB Layout Snippet"></td>
     <td>
       <b>Theory & Implementation:</b><br>
       For the <b>Gigabit Ethernet (RGMII)</b> section, I utilized a <b>Ground-Signal-Ground</b> stackup strategy to minimize crosstalk. 
