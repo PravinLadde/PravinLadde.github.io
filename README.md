@@ -10,7 +10,6 @@
 
 
 | [👁️ Computer Vision](#-computer-vision) | [🤖 Robotics](#-robotics) | [📊 Data Science](#-data-science) | [🔌 Electronics](#-technical-skillset) |
-| :--- | :--- | :--- | :--- |
 
 ---
 
