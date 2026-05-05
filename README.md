@@ -105,9 +105,21 @@ with a team of 3–4 engineers.
   </tr>
 </table>
 
+
+<details>
+<summary><b>🔍 View My High-Speed Routing Checklist</b></summary>
+<ul>
+  <li>Differential Pair Length Matching (within 5 mils)</li>
+  <li>Controlled Impedance Verification (100Ω for Ethernet)</li>
+  <li>Via stitching for ground return paths</li>
+  <li>Crosstalk analysis on critical high-speed traces</li>
+</ul>
+</details>
+
 ---
 
 <h2 id="-lets-connect">📫 Let's Connect</h2>
+
 *   **LinkedIn:** [linkedin.com/in/pravin-ladde](https://www.linkedin.com/in/pravin-ladde-43104b34/)
 *   **Email:** ppladde@gmail.com
 *   **Interests:** Senior Hardware Engineer roles, Automotive/EV Electronics, Hardware Architecture.
