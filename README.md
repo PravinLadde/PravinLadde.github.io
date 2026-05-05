@@ -4,7 +4,7 @@
 ![PCB](https://shields.io)
 ![Embedded](https://shields.io)
 
-[About Me](#-professional-summary) | [Technical Skills](#-technical-skillset) | [Project Case Studies](#-key-project-case-studies) | [Contact](#-lets-connect)
+[About Me](#-professional-summary) | [Technical Skills](#-skills-and-abilities) | [Project Case Studies](#-key-project-case-studies) | [Contact](#-lets-connect)
 
 ---
 
@@ -21,14 +21,10 @@ and **STM32 Bare-Metal development**.
 
 📍 Based in **Pune, India**
 
----
-
-<h2 id="-technical-skillset">🛠 Technical Skillset</h2>
-*   **EDA Tools:** Altium Designer, Autodesk Eagle (7+ Years)
-*   **PCB Technology:** HDI (6-layer), Blind/Buried Vias, Controlled Impedance, High-Speed SI
-*   **Design Domains:** Low-power Wearables, Industrial IoT, Power Electronics, Mixed-Signal Design
-*   **Embedded Systems:** Bare-Metal C (STM32, Arduino), Linux (Yocto/Buildroot - Currently Upskilling)
-*   **Lab Proficiency:** High-Bandwidth Oscilloscopes, Signal Generators, EMI/EMC Pre-compliance Lab Testing
+## 🔌 skills-and-abilitie
+End-to-End product development- **concept to Ideation**, Block-diagram, Hardware architecture
+Schematic capture, Simulations, Bench prototype, Board routing, Soldering, Board-bring-up
+User manual/Guide, DFM, DFMA, EMI/EMS for EMC, Documentation and technical support
 
 ---
 
@@ -78,6 +74,13 @@ and **STM32 Bare-Metal development**.
 *   **Predictive Maintenance:** Analyzing hardware failure patterns to improve product MTBF.
 *   **Tools:** Python, NumPy, Matplotlib for hardware performance visualization.
 </details>
+
+<h3 id="-technical-skillset">🛠 Technical Skillset</h2>
+*   **EDA Tools:** Altium Designer, Autodesk Eagle (7+ Years)
+*   **PCB Technology:** HDI (6-layer), Blind/Buried Vias, Controlled Impedance, High-Speed SI
+*   **Design Domains:** Low-power Wearables, Industrial IoT, Power Electronics, Mixed-Signal Design
+*   **Embedded Systems:** Bare-Metal C (STM32, Arduino), Linux (Yocto/Buildroot - Currently Upskilling)
+*   **Lab Proficiency:** High-Bandwidth Oscilloscopes, Signal Generators, EMI/EMC Pre-compliance Lab Testing
 
 ---
 ---
