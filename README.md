@@ -9,7 +9,7 @@
 ---
 
 
-| [👁️ Computer Vision](#-computer-vision) | [🤖 Robocon-2015](#-robocon-2015) | [📊 Data Science](#-data-science) | [🔌 Electronics](#-technical-skillset) |
+| [👁️ Computer Vision](#-computer-vision) | [🤖 Robocon-2015](#-robocon-2015) | [📊 Data Science](#-data-science) | [🔌 Open source Projects](#-my-personal-projects) |
 
 ---
 
@@ -82,7 +82,7 @@ with a team of 3–4 engineers.
 *   **Tools:** Python, NumPy, Matplotlib for hardware performance visualization.
 </details>
 
-<h3 id="-technical-skillset">🛠 Technical Skillset</h2>
+<h3 id="-my-personal-projects">🛠 My open source work</h2>
 
 *   **EDA Tools:** Altium Designer, Autodesk Eagle (7+ Years)
 *   **PCB Technology:** HDI (6-layer), Blind/Buried Vias, Controlled Impedance, High-Speed SI
