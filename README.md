@@ -8,7 +8,7 @@
 
 ---
 
-| [👁️ Computer Vision](#-computer-vision) | [🤖 Robocon-2015](#-robocon-2015) | [📊 My Blog](#-data-science) | [🔌 My open source Projects](#-my-personal-projects) |
+| [👁️ Embedded linux (Upskilling)](#-computer-vision) | [🤖 Robocon-2015](#-robocon-2015) | [📊 My Blog](#-data-science) | [🔌 My open source Projects](#-my-personal-projects) |
 
 ---
 
@@ -55,7 +55,7 @@ with a team of 3–4 engineers.
 
 ---
 
-<h3 id="-computer-vision">👁️ Computer Vision & Embedded Linux</h3>
+<h3 id="-computer-vision">👁️ Embedded linux (Upskilling)</h3>
 <details>
 <summary><b>View Computer Vision Details</b></summary>
 
