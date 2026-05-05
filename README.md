@@ -64,7 +64,7 @@ with a team of 3–4 engineers.
 *   **Embedded Learning:** Currently exploring **Yocto Project** for custom industrial distributions.
 </details>
 
-<h3 id="-robocon-2015">🤖 Robotics & Automation</h3>
+<h3 id="-robocon-2015">🤖 Robocon-2015</h3>
 <details>
 <summary><b>View Robotics Details</b></summary>
 
