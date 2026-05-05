@@ -9,7 +9,7 @@
 ---
 
 
-| [👁️ Computer Vision](#-computer-vision) | [🤖 Robocon-2015](#-robocon-2015) | [📊 Data Science](#-data-science) | [🔌 My open source Projects](#-my-personal-projects) |
+| [👁️ Computer Vision](#-computer-vision) | [🤖 Robocon-2015](#-robocon-2015) | [📊 My Blog](#-data-science) | [🔌 My open source Projects](#-my-personal-projects) |
 
 ---
 
@@ -73,7 +73,7 @@ with a team of 3–4 engineers.
 *   **Rugged Design:** Implementing hardware-level fail-safes for electromechanical systems.
 </details>
 
-<h3 id="-data-science">📊 Data Science (Applied)</h3>
+<h3 id="-data-science">📖 My Blog (Applied)</h3>
 <details>
 <summary><b>View Data Science Details</b></summary>
 
