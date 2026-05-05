@@ -28,6 +28,11 @@ with a team of 3–4 engineers.
 *  End-to-End product development- **concept to Ideation**, Block-diagram, Hardware architecture
 *  Schematic capture, Simulations, Bench prototype, Board routing, Soldering, Board-bring-up
 *  User manual/Guide, DFM, DFMA, EMI/EMS for EMC, Documentation and technical support
+*   **EDA Tools:** Altium Designer, Autodesk Eagle (7+ Years)
+*   **PCB Technology:** HDI (6-layer), Blind/Buried Vias, Controlled Impedance, High-Speed SI
+*   **Design Domains:** Low-power Wearables, Industrial IoT, Power Electronics, Mixed-Signal Design
+*   **Embedded Systems:** Bare-Metal C (STM32, Arduino), Linux (Yocto/Buildroot - Currently Upskilling)
+*   **Lab Proficiency:** High-Bandwidth Oscilloscopes, Signal Generators, EMI/EMC Pre-compliance Lab Testing
 
 ---
 
