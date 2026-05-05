@@ -83,7 +83,16 @@ with a team of 3–4 engineers.
 <details>
 <summary><b>View my technical blog posts</b></summary>
 
-*   **Coming Soon:** Coming Soon.
+<br>
+
+| Topic | Key Insight | Link |
+| :--- | :--- | :--- |
+| **High-Speed PCB Design** | Mastering impedance control for Gigabit Ethernet. | [Read on LinkedIn ↗️](YOUR_LINK_HERE) |
+| **HDI Stackup Strategy** | Benefits of Blind and Buried Vias in Wearables. | [Read on LinkedIn ↗️](YOUR_LINK_HERE) |
+| **EMI/EMC Pre-compliance** | 5 Common failures in Industrial IoT and how to fix them. | [Read on LinkedIn ↗️](YOUR_LINK_HERE) |
+| **STM32 Bare-Metal** | Optimizing power consumption for battery-operated devices. | [Read on LinkedIn ↗️](YOUR_LINK_HERE) |
+| **Thermal Management** | Heat dissipation techniques for compact enclosures. | [Read on LinkedIn ↗️](YOUR_LINK_HERE) |
+
 </details>
 
 <h3 id="-my-personal-projects">🛠 My open source work</h2>
