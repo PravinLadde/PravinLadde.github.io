@@ -8,7 +8,6 @@
 
 ---
 
-
 | [👁️ Computer Vision](#-computer-vision) | [🤖 Robocon-2015](#-robocon-2015) | [📊 My Blog](#-data-science) | [🔌 My open source Projects](#-my-personal-projects) |
 
 ---
@@ -22,6 +21,7 @@ design, board bring-up, and **cross-functional team leadership**. Adept at manag
 with a team of 3–4 engineers. 
 
 📍 Based in **Pune, India**
+---
 
 ## 🔌 Skills and abilities
 *  End-to-End product development- **concept to Ideation**, Block-diagram, Hardware architecture
