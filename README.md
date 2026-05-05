@@ -114,6 +114,7 @@ with a team of 3–4 engineers.
   </tr>
 </table>
 
+---
 
 <details>
 <summary><b>🔍 View My High-Speed Routing Checklist</b></summary>
