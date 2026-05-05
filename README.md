@@ -8,7 +8,7 @@
 
 ---
 
-| [👁️ Embedded linux (Upskilling)](#-computer-vision) | [🤖 Robocon-2015](#-robocon-2015) | [📊 My Blog](#-data-science) | [🔌 My open source Projects](#-my-personal-projects) |
+| [👁️ Embedded linux (Upskilling)](#-computer-vision) | [🤖 Robocon-2015](#-robocon-2015) | [📖 My Blog](#-data-science) | [🔌 My open source Projects](#-my-personal-projects) |
 
 ---
 
