@@ -15,9 +15,12 @@
 ---
 
 ## 🚀 Professional Summary
-Hardware Lead with **7+ years** of end-to-end product development experience. 
-Specialist in **6-layer HDI boards**, **High-Speed Digital Design (GMAC/Gigabit Ethernet)**, 
-and **STM32 Bare-Metal development**. 
+Lead Electronics Hardware Engineer with 7+ years of **end-to-end product development** experience — from
+concept and requirement gathering to prototyping, validation, and OEM handoff. Proven track record delivering
+**high-quality IoT gateways**, **wearable devices**, **industrial control systems**, **electromechanical systems**, PCB testing
+jigs based on bare Matel as well as **embedded Linux platforms**. Expert in **high-speed**, **multilayer**, and **HDI PCB**
+design, board bring-up, and **cross-functional team leadership**. Adept at managing multiple concurrent projects
+with a team of 3–4 engineers. 
 
 📍 Based in **Pune, India**
 
