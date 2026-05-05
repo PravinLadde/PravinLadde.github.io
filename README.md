@@ -113,13 +113,3 @@ with a team of 3–4 engineers.
 *   **Interests:** Senior Hardware Engineer roles, Automotive/EV Electronics, Hardware Architecture.
 
 ---
-
-<details>
-<summary><b>🔍 View My High-Speed Routing Checklist</b></summary>
-<ul>
-  <li>Differential Pair Length Matching (within 5 mils)</li>
-  <li>Controlled Impedance Verification (100Ω for Ethernet)</li>
-  <li>Via stitching for ground return paths</li>
-  <li>Crosstalk analysis on critical high-speed traces</li>
-</ul>
-</details>
