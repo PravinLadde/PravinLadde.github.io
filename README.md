@@ -1,6 +1,6 @@
 # Pravin Ladde | Senior Hardware & PCB Design Engineer
 
-![Altium](https://shields.io)
+![Altium]([https://shields.io](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs))
 ![PCB](https://shields.io)
 ![Embedded](https://shields.io)
 
