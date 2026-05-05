@@ -24,7 +24,7 @@ with a team of 3–4 engineers.
 
 📍 Based in **Pune, India**
 
-## 🔌 skills and abilities
+## 🔌 Skills and abilities
 *  End-to-End product development- **concept to Ideation**, Block-diagram, Hardware architecture
 *  Schematic capture, Simulations, Bench prototype, Board routing, Soldering, Board-bring-up
 *  User manual/Guide, DFM, DFMA, EMI/EMS for EMC, Documentation and technical support
@@ -86,7 +86,6 @@ with a team of 3–4 engineers.
 *   **Lab Proficiency:** High-Bandwidth Oscilloscopes, Signal Generators, EMI/EMC Pre-compliance Lab Testing
 
 ---
----
 
 ## 📸 Technical Spotlight: High-Speed Design Strategy
 
@@ -112,6 +111,8 @@ with a team of 3–4 engineers.
 *   **LinkedIn:** [linkedin.com/in/pravin-ladde](https://www.linkedin.com/in/pravin-ladde-43104b34/)
 *   **Email:** ppladde@gmail.com
 *   **Interests:** Senior Hardware Engineer roles, Automotive/EV Electronics, Hardware Architecture.
+
+---
 
 <details>
 <summary><b>🔍 View My High-Speed Routing Checklist</b></summary>
