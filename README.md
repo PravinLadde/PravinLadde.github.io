@@ -62,7 +62,6 @@ with a team of 3–4 engineers.
 <summary><b>View Computer Vision Details</b></summary>
 
 *   **Linux Porting:** Experience in **U-Boot** and **Kernel bring-up** for custom hardware.
-*   **Vision Systems:** Interfacing MIPI-CSI/USB cameras with SoC platforms.
 *   **Embedded Learning:** Currently exploring **Yocto Project** for custom industrial distributions.
 </details>
 
@@ -82,7 +81,7 @@ with a team of 3–4 engineers.
 
 <h3 id="-my-personal-projects">🛠 My open source work</h2>
 <details>
-<summary><b>View My open source work</b></summary>
+<summary><b>View My open source projects </b></summary>
   
 *   **Comming Soon:** Comming Soon.
 </details>
