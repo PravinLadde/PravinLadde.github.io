@@ -20,8 +20,8 @@ concept and requirement gathering to prototyping, validation, and OEM handoff. P
 jigs based on bare Matel as well as **embedded Linux platforms**. Expert in **high-speed**, **multilayer**, and **HDI PCB**
 design, board bring-up, and **cross-functional team leadership**. Adept at managing multiple concurrent projects
 with a team of 3–4 engineers. 
-
 📍 Based in **Pune, India**
+
 ---
 
 ## 🔌 Skills and abilities
