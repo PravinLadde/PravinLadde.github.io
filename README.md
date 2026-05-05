@@ -79,6 +79,7 @@ with a team of 3–4 engineers.
 </details>
 
 <h3 id="-technical-skillset">🛠 Technical Skillset</h2>
+
 *   **EDA Tools:** Altium Designer, Autodesk Eagle (7+ Years)
 *   **PCB Technology:** HDI (6-layer), Blind/Buried Vias, Controlled Impedance, High-Speed SI
 *   **Design Domains:** Low-power Wearables, Industrial IoT, Power Electronics, Mixed-Signal Design
