@@ -9,7 +9,7 @@
 ---
 
 
-| [👁️ Computer Vision](#-computer-vision) | [🤖 Robotics](#-robotics) | [📊 Data Science](#-data-science) | [🔌 Electronics](#-technical-skillset) |
+| [👁️ Computer Vision](#-computer-vision) | [🤖 Robocon-2015](#-robocon-2015) | [📊 Data Science](#-data-science) | [🔌 Electronics](#-technical-skillset) |
 
 ---
 
@@ -64,7 +64,7 @@ with a team of 3–4 engineers.
 *   **Embedded Learning:** Currently exploring **Yocto Project** for custom industrial distributions.
 </details>
 
-<h3 id="-robotics">🤖 Robotics & Automation</h3>
+<h3 id="-Robocon 2015">🤖 Robotics & Automation</h3>
 <details>
 <summary><b>View Robotics Details</b></summary>
 
