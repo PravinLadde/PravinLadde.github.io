@@ -5,13 +5,9 @@
 ![Embedded](https://shields.io) -->
 
 [About Me](#-professional-summary) | [Technical Skills](#-skills-and-abilities) | [Project Case Studies](#-key-project-case-studies) | [Contact](#-lets-connect)
-
 ---
-
 | [👁️ Computer Vision](#-computer-vision) | [🤖 Robocon-2015](#-robocon-2015) | [📊 My Blog](#-data-science) | [🔌 My open source Projects](#-my-personal-projects) |
-
 ---
-
 ## 🚀 Professional Summary
 Lead Electronics Hardware Engineer with 7+ years of **end-to-end product development** experience — from
 concept and requirement gathering to prototyping, validation, and OEM handoff. Proven track record delivering
