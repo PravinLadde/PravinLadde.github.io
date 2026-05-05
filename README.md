@@ -73,7 +73,7 @@ with a team of 3–4 engineers.
 *   **Rugged Design:** Implementing hardware-level fail-safes for electromechanical systems.
 </details>
 
-<h3 id="-data-science">📖 My Blog (Applied)</h3>
+<h3 id="-data-science">📖 My Blog</h3>
 <details>
 <summary><b>View Data Science Details</b></summary>
 
