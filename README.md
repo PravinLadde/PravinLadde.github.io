@@ -68,31 +68,23 @@ with a team of 3–4 engineers.
 
 <h3 id="-robocon-2015">🤖 Robocon-2015</h3>
 <details>
-<summary><b>View Robotics Details</b></summary>
+<summary><b>View Robocon-2015 competition photos</b></summary>
 
-*   **Motor Control:** Designing high-precision drive circuits for Stepper and BLDC motors.
-*   **Sensor Fusion:** Integrating LiDAR, IMUs, and Ultrasonic sensors for navigation.
-*   **Rugged Design:** Implementing hardware-level fail-safes for electromechanical systems.
+*   **Comming Soon:** Comming Soon.
 </details>
 
 <h3 id="-data-science">📖 My Blog</h3>
 <details>
-<summary><b>View Data Science Details</b></summary>
+<summary><b>View my technical blog posts</b></summary>
 
-*   **Signal Processing:** Implementing FFT and digital filters on STM32 for sensor analysis.
-*   **Predictive Maintenance:** Analyzing hardware failure patterns to improve product MTBF.
-*   **Tools:** Python, NumPy, Matplotlib for hardware performance visualization.
+*   **Comming Soon:** Comming Soon.
 </details>
 
 <h3 id="-my-personal-projects">🛠 My open source work</h2>
 <details>
 <summary><b>View My open source work</b></summary>
   
-*   **EDA Tools:** Altium Designer, Autodesk Eagle (7+ Years)
-*   **PCB Technology:** HDI (6-layer), Blind/Buried Vias, Controlled Impedance, High-Speed SI
-*   **Design Domains:** Low-power Wearables, Industrial IoT, Power Electronics, Mixed-Signal Design
-*   **Embedded Systems:** Bare-Metal C (STM32, Arduino), Linux (Yocto/Buildroot - Currently Upskilling)
-*   **Lab Proficiency:** High-Bandwidth Oscilloscopes, Signal Generators, EMI/EMC Pre-compliance Lab Testing
+*   **Comming Soon:** Comming Soon.
 </details>
 
 ---
