@@ -21,7 +21,7 @@ and **STM32 Bare-Metal development**.
 
 📍 Based in **Pune, India**
 
-## 🔌 skills and abilitie
+## 🔌 skills and abilities
 End-to-End product development- **concept to Ideation**, Block-diagram, Hardware architecture
 Schematic capture, Simulations, Bench prototype, Board routing, Soldering, Board-bring-up
 User manual/Guide, DFM, DFMA, EMI/EMS for EMC, Documentation and technical support
