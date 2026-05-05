@@ -59,7 +59,7 @@ with a team of 3–4 engineers.
 
 <h3 id="-computer-vision">👁️ Embedded linux (Upskilling)</h3>
 <details>
-<summary><b>View Computer Vision Details</b></summary>
+<summary><b>View Embedded linux work</b></summary>
 
 *   **Linux Porting:** Experience in **U-Boot** and **Kernel bring-up** for custom hardware.
 *   **Embedded Learning:** Currently exploring **Yocto Project** for custom industrial distributions.
