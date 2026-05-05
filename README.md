@@ -122,6 +122,6 @@ with a team of 3–4 engineers.
 
 *   **LinkedIn:** [linkedin.com/in/pravin-ladde](https://www.linkedin.com/in/pravin-ladde-43104b34/)
 *   **Email:** ppladde@gmail.com
-*   **Interests:** Senior Hardware Engineer roles, Automotive/EV Electronics, Hardware Architecture.
+*   **Interests:** Senior Hardware Engineer roles, Automotive/EV Electronics, Medical, Hardware Architecture.
 
 ---
