@@ -9,7 +9,7 @@
 ---
 
 
-| [👁️ Computer Vision](#-computer-vision) | [🤖 Robocon-2015](#-robocon-2015) | [📊 Data Science](#-data-science) | [🔌 Open source Projects](#-my-personal-projects) |
+| [👁️ Computer Vision](#-computer-vision) | [🤖 Robocon-2015](#-robocon-2015) | [📊 Data Science](#-data-science) | [🔌 My open source Projects](#-my-personal-projects) |
 
 ---
 
@@ -83,12 +83,15 @@ with a team of 3–4 engineers.
 </details>
 
 <h3 id="-my-personal-projects">🛠 My open source work</h2>
-
+<details>
+<summary><b>View My open source work</b></summary>
+  
 *   **EDA Tools:** Altium Designer, Autodesk Eagle (7+ Years)
 *   **PCB Technology:** HDI (6-layer), Blind/Buried Vias, Controlled Impedance, High-Speed SI
 *   **Design Domains:** Low-power Wearables, Industrial IoT, Power Electronics, Mixed-Signal Design
 *   **Embedded Systems:** Bare-Metal C (STM32, Arduino), Linux (Yocto/Buildroot - Currently Upskilling)
 *   **Lab Proficiency:** High-Bandwidth Oscilloscopes, Signal Generators, EMI/EMC Pre-compliance Lab Testing
+</details>
 
 ---
 
