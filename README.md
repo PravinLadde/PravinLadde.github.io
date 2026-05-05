@@ -69,7 +69,14 @@ with a team of 3–4 engineers.
 <details>
 <summary><b>View Robocon-2015 competition photos</b></summary>
 
-*   **Coming Soon:** Coming Soon.
+<!-- Added a blank line to ensure the table renders -->
+
+| Team Robot | Control Board | Competition Moment |
+| :---: | :---: | :---: |
+| <img src="URL_TO_IMAGE_1" width="250"> | <img src="URL_TO_IMAGE_2" width="250"> | <img src="URL_TO_IMAGE_3" width="250"> |
+
+*   **Role:** Lead Hardware Designer for the autonomous robot.
+*   **Achievements:** Implemented sensor fusion for line following and obstacle detection.
 </details>
 
 <h3 id="-data-science">📖 My Blog</h3>
