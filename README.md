@@ -95,11 +95,11 @@ with a team of 3–4 engineers.
 
 </details>
 
-<h3 id="-my-personal-projects">🛠 My open source work</h2>
+<h3 id="-my-personal-projects">🛠 My open source work</h3>
 <details>
 <summary><b>View My open source projects </b></summary>
-  
-*   **Coming Soon:** Coming Soon.
+
+* **Coming Soon:** Check back shortly for my open-source PCB modules.
 </details>
 
 ---
